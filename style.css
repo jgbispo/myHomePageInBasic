@@ -108,3 +108,9 @@ header, main, footer{
 	flex-direction: row;
 	gap: 0.5em;
 }
+
+button{
+	background-color: teal;
+	padding: 10px 16px;
+	border-radius: 10px;
+}
